@@ -1,14 +1,14 @@
-STRML.net
-=========
+Kevogich.github.io
 
-[View Site](http://strml.net)
+[View Site](Kevogich.github.io)
+
 
 Building
 --------
 
 ```bash
-git clone git@github.com:STRML/strml.net.git
-cd strml.net
+git clone git@github.Kevogich.github.io.git
+cd to dir 
 npm install
 npm run dev
 # Open localhost:4003/index-dev.html in your browser
