@@ -1,0 +1,34 @@
+STRML.net
+=========
+
+KEVIN Gichia, Embedded Systems
+Frontend / Backend Developer
+
+Contact
+-------
+
+* kevogich at gmail dot com
+* 
+
+Availability
+------------
+
+I am happy to entertain
+proposals for Projects
+--------
+
+* www.github.com
+/kevogich* Open Source
+-----------
+
+* Python
+* JSXHint
+* Bootstrap
+* SQL
+* Hadoop
+* R
+* react-draggable
+* textFit
+* imgur-to-gfycat
+* backbone.queryRouter
+* backbone.layoutManager
