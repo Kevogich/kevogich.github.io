@@ -1,34 +1,39 @@
-STRML.net
+KEVIN GICHIA
 =========
 
-KEVIN Gichia, Embedded Systems
-Frontend / Backend Developer
+Data mining 
+Backend Developing
+Data Analysis
+Machine learning 
+Neural Models training 
 
 Contact
 -------
 
-* kevogich at gmail dot com
-* 
+* kevogich@gmail.com
+* pgp key provided
 
 Availability
 ------------
 
 I am happy to entertain
 proposals for Projects
---------
 
-* www.github.com
-/kevogich* Open Source
------------
+Repositories
+------------
 
+* www.github.com/kevogich
+* www.bitbucket.org/Kevogich/
+
+Skills and Tools
+----------------
 * Python
+* Assembly Lang
 * JSXHint
 * Bootstrap
 * SQL
 * Hadoop
 * R
+* Respective frameworks
 * react-draggable
-* textFit
-* imgur-to-gfycat
-* backbone.queryRouter
-* backbone.layoutManager
+* Computer Networks(IP Addressing ,routing etc)
