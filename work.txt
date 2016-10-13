@@ -1,0 +1,41 @@
+Kevin Gichia
+============
+
+Data Analysis
+Backend Developing
+Data Mining
+Machine Learning 
+Neural set training 
+
+Contact
+-------
+
+* Kevogich@gmail.com
+* pgp - key provided
+
+Availability
+------------
+
+I am happy to entertain
+proposals for Projects
+
+
+Repositories
+--------
+
+* www.github.com/kevogich
+*
+
+
+Tools and Skills
+----------------
+* Python
+* JSXHint
+* Bootstrap
+* SQL
+* Hadoop
+* R
+* react-draggable
+* Respective frameworks
+* backbone.queryRouter
+* Computer Networking (IP Adressing ,Routing)
